@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "springdoc.swagger-ui.path",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.path'"
+  },
+  {
+    "name": "springdoc.api-docs.path",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.api-docs.path'"
+  },
+  {
+    "name": "springdoc.swagger-ui.operationsSorter",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.operationsSorter'"
+  },
+  {
+    "name": "springdoc.swagger-ui.disable-swagger-default-url",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.disable-swagger-default-url'"
+  },
+  {
+    "name": "springdoc.packagesToScan",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.packagesToScan'"
+  },
+  {
+    "name": "springdoc.swagger-ui.use-root-path",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.use-root-path'"
+  },
+  {
+    "name": "springdoc.packagesToScan",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.packagesToScan'"
+  },
+  {
+    "name": "springdoc.packagesToScan",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.packagesToScan'"
+  },
+  {
+    "name": "springdoc.packagesToScan",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.packagesToScan'"
+  },
+  {
+    "name": "springdoc.swagger-ui.operationsSorter",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.operationsSorter'"
+  }
+]}
